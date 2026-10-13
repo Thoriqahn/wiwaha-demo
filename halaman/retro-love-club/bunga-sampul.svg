@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="132" height="132" viewBox="0 0 132 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="exports/retro-love-club/flower-burst" clip-path="url(#clip0_0_4)">
+<circle id="Center" cx="66" cy="66" r="24" fill="#E7A928" stroke="#4B2D20" stroke-width="2"/>
+<circle id="Petal" cx="103" cy="103" r="19" fill="#D75A2A"/>
+<circle id="Petal_2" cx="29" cy="103" r="19" fill="#D75A2A"/>
+<circle id="Petal_3" cx="103" cy="29" r="19" fill="#D75A2A"/>
+<circle id="Petal_4" cx="29" cy="29" r="19" fill="#D75A2A"/>
+<ellipse id="Petal_5" cx="22" cy="66" rx="22" ry="19" fill="#D75A2A"/>
+<ellipse id="Petal_6" cx="66" cy="110" rx="19" ry="22" fill="#D75A2A"/>
+<ellipse id="Petal_7" cx="116" cy="66" rx="22" ry="19" fill="#D75A2A"/>
+<ellipse id="Petal_8" cx="66" cy="22" rx="19" ry="22" fill="#D75A2A"/>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="132" height="132" fill="white"/>
+</clipPath>
+</defs>
+</svg>

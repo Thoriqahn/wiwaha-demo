@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="94" height="14" viewBox="0 0 94 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="exports/comic-panels/heart-line-motif" clip-path="url(#clip0_0_10)">
+<circle id="Heart point" cx="7" cy="7" r="6" fill="#B63A3A" stroke="#111111" stroke-width="2"/>
+<line id="Heart line" x1="22" y1="5.5" x2="94" y2="5.5" stroke="#111111" stroke-width="3"/>
+</g>
+<defs>
+<clipPath id="clip0_0_10">
+<rect width="94" height="14" fill="white"/>
+</clipPath>
+</defs>
+</svg>

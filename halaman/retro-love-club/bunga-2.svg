@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Flower burst" clip-path="url(#clip0_0_4)">
+<circle id="Center" cx="32.5" cy="32.5" r="11.5" fill="#D75A2A" stroke="#4B2D20" stroke-width="2"/>
+<circle id="Petal" cx="46.5" cy="46.5" r="9.5" fill="#E7A928"/>
+<circle id="Petal_2" cx="19.5" cy="46.5" r="9.5" fill="#E7A928"/>
+<circle id="Petal_3" cx="46.5" cy="19.5" r="9.5" fill="#E7A928"/>
+<circle id="Petal_4" cx="19.5" cy="19.5" r="9.5" fill="#E7A928"/>
+<ellipse id="Petal_5" cx="12.5" cy="32.5" rx="12.5" ry="9.5" fill="#E7A928"/>
+<ellipse id="Petal_6" cx="32.5" cy="53.5" rx="9.5" ry="12.5" fill="#E7A928"/>
+<ellipse id="Petal_7" cx="59.5" cy="32.5" rx="12.5" ry="9.5" fill="#E7A928"/>
+<ellipse id="Petal_8" cx="32.5" cy="12.5" rx="9.5" ry="12.5" fill="#E7A928"/>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="66" height="66" fill="white"/>
+</clipPath>
+</defs>
+</svg>

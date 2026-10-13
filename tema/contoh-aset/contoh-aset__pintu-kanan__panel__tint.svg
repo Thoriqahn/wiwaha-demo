@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920"><defs></defs><g fill="none" stroke-width="10">
+      <rect x="610" y="220" width="400" height="640" rx="12" stroke="var(--theme-primary)" data-token="theme-primary"/>
+      <rect x="610" y="1000" width="400" height="700" rx="12" stroke="var(--theme-primary)" data-token="theme-primary"/>
+      <path d="M810 360 l90 180 l-90 180 l-90 -180z" stroke="var(--theme-accent)" data-token="theme-accent"/>
+      <rect x="640" y="1030" width="340" height="640" rx="8" fill="var(--theme-soft)" data-token="theme-soft" opacity=".18"/></g></svg>

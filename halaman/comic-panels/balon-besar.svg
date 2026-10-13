@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="104" height="62" viewBox="0 0 104 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Speech bubble">
+<g id="Bubble">
+<rect x="1.5" y="1.5" width="101" height="47" rx="23.5" fill="white"/>
+<rect x="1.5" y="1.5" width="101" height="47" rx="23.5" stroke="#111111" stroke-width="3"/>
+</g>
+<path id="Bubble tail" d="M94.4771 51.9641L81.8626 56.0628L85.2655 45.075L94.4771 51.9641Z" fill="white" stroke="#111111" stroke-width="3"/>
+</g>
+</svg>

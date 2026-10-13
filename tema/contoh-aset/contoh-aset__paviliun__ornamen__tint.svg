@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3120" viewBox="0 0 1080 3120"><defs></defs><g transform="translate(540 2050)" fill="none" stroke-width="10">
+    <path d="M-300 -10 L0 -280 L300 -10" stroke="var(--theme-primary)" data-token="theme-primary"/>
+    <path d="M-260 30 H260" stroke="var(--theme-metal)" data-token="theme-metal"/>
+    <circle cx="0" cy="-150" r="44" stroke="var(--theme-accent)" data-token="theme-accent"/>
+    <path d="M-90 40 Q0 150 90 40" stroke="var(--theme-primary)" data-token="theme-primary"/></g></svg>
