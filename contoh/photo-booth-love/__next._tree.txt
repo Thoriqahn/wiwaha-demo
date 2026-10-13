@@ -12,5 +12,5 @@
 :HL["/wiwaha-demo/_next/static/chunks/2gykx5l6apu2m.css","style"]
 :HL["/wiwaha-demo/_next/static/chunks/0-owwb_zky_nr.css","style"]
 :HL["/wiwaha-demo/_next/static/chunks/0v-kv3mqx_2lr.css","style"]
-:HL["/wiwaha-demo/_next/static/chunks/37-l_dsu49edd.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"contoh","param":null,"prefetchHints":4192,"slots":{"children":{"name":"tema","param":{"type":"d","key":"photo-booth-love","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"raBXE18Y4ppRh43apoNCA"}
+:HL["/wiwaha-demo/_next/static/chunks/3jrd1c_gch_0p.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"contoh","param":null,"prefetchHints":4192,"slots":{"children":{"name":"tema","param":{"type":"d","key":"photo-booth-love","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"vNkBfyk-2DVbg-PiubwAh"}
