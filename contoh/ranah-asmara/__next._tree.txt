@@ -1,5 +1,5 @@
 :HL["/wiwaha-demo/_next/static/chunks/2z9mqzr0urna1.css","style"]
-:HL["/wiwaha-demo/_next/static/chunks/02_x7a72-mmow.css","style"]
+:HL["/wiwaha-demo/_next/static/chunks/37s0m_uujklaz.css","style"]
 :HL["/wiwaha-demo/_next/static/media/05d29f0ed5b0e698-s.p.1mou8v493x-u7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/wiwaha-demo/_next/static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/wiwaha-demo/_next/static/media/7ddd198311ba7843-s.p.3kq6k02b2ysv1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -15,4 +15,4 @@
 :HL["/wiwaha-demo/_next/static/chunks/3jrd1c_gch_0p.css","style"]
 :HL["/wiwaha-demo/tema/ranah-asmara/avatar/wanita-hijab-1.webp","image"]
 :HL["/wiwaha-demo/tema/ranah-asmara/avatar/pria-1.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"contoh","param":null,"prefetchHints":4192,"slots":{"children":{"name":"tema","param":{"type":"d","key":"ranah-asmara","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"vNkBfyk-2DVbg-PiubwAh"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"contoh","param":null,"prefetchHints":4192,"slots":{"children":{"name":"tema","param":{"type":"d","key":"ranah-asmara","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"T0vFNa_zya50jmS2O0plE"}
